@@ -1,0 +1,15 @@
+Query :
+daftar user - insert user baru sebagai penulis
+login - user
+tambah komentar - insert komentar
+tampilkan komentar
+tampilkan artikel
+tampilkan kategori
+tampilkan detail artikel
+tampilkan artikel sesuai kategorinya
+tambah artikel
+tambah kategori
+update artikel
+update kategori
+delete artikel
+delete kategori
